@@ -1,0 +1,68 @@
+Initialize engine version: 5.6.7f1 (e80cc3114ac1)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: Intel(R) UHD Graphics 630 (ID=0x3e9b)
+    Vendor:   Intel
+    VRAM:     2111 MB
+    Driver:   23.20.16.5018
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\JayU\SpartyBros(someone's)\Builds\Windows\SuperSpartyBros_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\JayU\SpartyBros(someone's)\Builds\Windows\SuperSpartyBros_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\JayU\SpartyBros(someone's)\Builds\Windows\SuperSpartyBros_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading D:\JayU\SpartyBros(someone's)\Builds\Windows\SuperSpartyBros_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: D:\JayU\SpartyBros(someone's)\Builds\Windows\SuperSpartyBros_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\JayU\SpartyBros(someone's)\Builds\Windows\SuperSpartyBros_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: D:\JayU\SpartyBros(someone's)\Builds\Windows\SuperSpartyBros_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\JayU\SpartyBros(someone's)\Builds\Windows\SuperSpartyBros_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: D:\JayU\SpartyBros(someone's)\Builds\Windows\SuperSpartyBros_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading D:\JayU\SpartyBros(someone's)\Builds\Windows\SuperSpartyBros_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.151 seconds
+Platform assembly: D:\JayU\SpartyBros(someone's)\Builds\Windows\SuperSpartyBros_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: D:\JayU\SpartyBros(someone's)\Builds\Windows\SuperSpartyBros_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 144Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 12.450999 ms
+Setting up 6 worker threads for Enlighten.
+  Thread -> id: f78 -> priority: 1 
+  Thread -> id: 418 -> priority: 1 
+  Thread -> id: 734 -> priority: 1 
+  Thread -> id: 1314 -> priority: 1 
+  Thread -> id: 70c -> priority: 1 
+  Thread -> id: 1860 -> priority: 1 
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 10.289499 ms
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 401.
+Total: 1.312700 ms (FindLiveObjects: 0.056300 ms CreateObjectMapping: 0.046900 ms MarkObjects: 1.190900 ms  DeleteObjects: 0.017100 ms)
+
+Player State reset.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.918500 ms
+
+Unloading 23 unused Assets to reduce memory usage. Loaded Objects now: 917.
+Total: 1.685300 ms (FindLiveObjects: 0.101100 ms CreateObjectMapping: 0.083500 ms MarkObjects: 0.766300 ms  DeleteObjects: 0.732200 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.259600 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 2972.
+Total: 1.909600 ms (FindLiveObjects: 0.332000 ms CreateObjectMapping: 0.123700 ms MarkObjects: 1.429400 ms  DeleteObjects: 0.022900 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 6.538600 ms
+
+Unloading 95 unused Assets to reduce memory usage. Loaded Objects now: 301.
+Total: 2.269800 ms (FindLiveObjects: 0.033600 ms CreateObjectMapping: 0.031700 ms MarkObjects: 0.342000 ms  DeleteObjects: 1.861600 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.620800 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 401.
+Total: 1.429900 ms (FindLiveObjects: 0.044400 ms CreateObjectMapping: 0.031100 ms MarkObjects: 0.469600 ms  DeleteObjects: 0.883700 ms)
+
