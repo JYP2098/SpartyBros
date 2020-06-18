@@ -1,2 +1,2 @@
 # SpartyBros
-A game similar to Mario
+A game similar to Mario created in Unity
